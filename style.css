@@ -1,0 +1,15 @@
+h1{
+    color: chartreuse;
+}
+h1:hover{
+    color: blue;
+    transition: 3s color linear;
+}
+img {
+    box-shadow: none;
+    transition: .4s linear;
+}
+img:hover{
+    box-shadow: 5px 5px 15px 5px grey;
+    transition: .4s linear;
+}
